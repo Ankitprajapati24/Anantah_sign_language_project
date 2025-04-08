@@ -1,0 +1,7 @@
+mediapipe
+opencv-python
+tensorflow
+pyttsx3
+PyQt5
+numpy
+python-dotenv
